@@ -1,4 +1,4 @@
-# 👗 C-Trend
+# 🌐 C-Trend
 
 **C-Trend**, kullanıcıların en son moda trendlerini keşfetmelerini, kendi kombinlerini oluşturup paylaşmalarını sağlayan bir mobil uygulamadır. Flutter ile geliştirilmiştir ve hem iOS hem de Android platformlarında çalışmaktadır.
 
@@ -47,4 +47,17 @@ git clone https://github.com/yusuf-bilgin/C-Trend.git
 cd C-Trend
 flutter pub get
 flutter run
+```
+---
 
+## 📫 Contact
+
+For more information or collaboration opportunities:  
+📧 yusufbilgin1905@gmail.com 
+
+⭐ *If you like the project, don't forget to give it a star!*
+
+---
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
